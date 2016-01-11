@@ -12,8 +12,11 @@ antes de commit eles.
 Caso alguma mudança lógica ocupe mais de um arquivo poderemos criar apenas um 
 commit para todas as mudanças.
 
+How can you use the staging area to make sure you have one commit per logical 
+change?
 
-
+Podemos utilizar a staging area para enviar arquivos individualmente e depois
+realizar o commit lembrando da regra de uma mudança lógica por vez.
 
 --------------------------------------------------------------------------------
 Adicionais
