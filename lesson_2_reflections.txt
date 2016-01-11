@@ -33,3 +33,12 @@ git diff --staged
 
 Comando para restaurar o working directory para o ultimo commit
 git reset --hard
+
+Comando para ver os branches
+git branch
+
+Comando para criar um novo branch
+git branch nome-do-branch
+
+Comando para utilizar uma branch ou commit
+branch checkout nome-do-branch-ou-ID-da-commit
