@@ -18,6 +18,12 @@ change?
 Podemos utilizar a staging area para enviar arquivos individualmente e depois
 realizar o commit lembrando da regra de uma mudança lógica por vez.
 
+What are some situations when branches would be helpful in keeping your history 
+organized? How would branches help?
+
+Ela pode nos ajudar com a criação de novas features que ainda não testamos 
+inteiramente ou mesmo com traduções de arquivos.
+A branch serve como uma ramificação da commit.
 --------------------------------------------------------------------------------
 Adicionais
 
