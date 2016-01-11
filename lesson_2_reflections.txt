@@ -24,6 +24,11 @@ organized? How would branches help?
 Ela pode nos ajudar com a criação de novas features que ainda não testamos 
 inteiramente ou mesmo com traduções de arquivos.
 A branch serve como uma ramificação da commit.
+
+How do the diagrams help you visualize the branch structure?
+
+Nos ajuda a saber quais commits sao alcansaveis ou não.
+Também ajuda a ver as branchs.
 --------------------------------------------------------------------------------
 Adicionais
 
