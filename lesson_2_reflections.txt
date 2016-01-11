@@ -59,3 +59,6 @@ git log --graph --oneline branch1 branch2
 
 Comando para criar uma branch e realizar checkout em apenas uma linha
 git checkout -b nome_da_nova_branch
+
+Comando para mostrar a mudança de uma commit em relação ao seu paret
+git show ID
