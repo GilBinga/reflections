@@ -48,3 +48,6 @@ git branch nome-do-branch
 
 Comando para utilizar uma branch ou commit
 branch checkout nome-do-branch-ou-ID-da-commit
+
+Comando para comparar duas branchs
+git log --graph --oneline branch1 branch2
