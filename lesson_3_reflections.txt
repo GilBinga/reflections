@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+Eu gostaria de utilizar repositórios online quando trabalhando em equipe e para segurança.
