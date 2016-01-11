@@ -51,3 +51,6 @@ branch checkout nome-do-branch-ou-ID-da-commit
 
 Comando para comparar duas branchs
 git log --graph --oneline branch1 branch2
+
+Comando para criar uma branch e realizar checkout em apenas uma linha
+git checkout -b nome_da_nova_branch
