@@ -11,3 +11,13 @@ A staging area é um local temporário para que possamos colocar vários arquivo
 antes de commit eles.
 Caso alguma mudança lógica ocupe mais de um arquivo poderemos criar apenas um 
 commit para todas as mudanças.
+
+
+
+
+--------------------------------------------------------------------------------
+Adicionais
+
+Comandos para mudar nome e e-mail
+git config --global user.name "Your Name"
+git config --global user.email you@example.com
