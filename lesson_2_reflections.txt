@@ -72,3 +72,6 @@ git show ID
 
 Comando para deletar uma branch
 git branch -d nome_da_branch
+
+Comando para exibir apenas alguns logs
+git log -n1 (podemos alterar o número de ocorrencia)
