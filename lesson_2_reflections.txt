@@ -1,0 +1,13 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Quando inicializamos um novo repositório o Git cria uma pasta chamada .Git.
+Ele não cria nenhum commit.
+Para criar um repositório precisamos do comando git init
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+A staging area é um local temporário para que possamos colocar vários arquivos
+antes de commit eles.
+Caso alguma mudança lógica ocupe mais de um arquivo poderemos criar apenas um 
+commit para todas as mudanças.
