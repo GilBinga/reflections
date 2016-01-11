@@ -29,6 +29,13 @@ How do the diagrams help you visualize the branch structure?
 
 Nos ajuda a saber quais commits sao alcansaveis ou não.
 Também ajuda a ver as branchs.
+
+What is the result of merging two branches together? Why do we represent it in 
+the diagram the way we do?
+
+O resultado de jutar dois branchs é a união entre duas linhas separadas. O final 
+irá conter todas as alterações realizadas em ambas as branchs.
+Nós representamos no diagrama excluindo uma branch e unindo na primeira.
 --------------------------------------------------------------------------------
 Adicionais
 
