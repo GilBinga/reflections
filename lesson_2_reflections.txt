@@ -36,6 +36,12 @@ the diagram the way we do?
 O resultado de jutar dois branchs é a união entre duas linhas separadas. O final 
 irá conter todas as alterações realizadas em ambas as branchs.
 Nós representamos no diagrama excluindo uma branch e unindo na primeira.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges 
+manually?
+
+Pro: fazendo automaticamente é mais rápido.
+Con: manualmente temos mais controle do que é feito.
 --------------------------------------------------------------------------------
 Adicionais
 
