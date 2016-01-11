@@ -1,3 +1,18 @@
-When would you want to use a remote repository rather than keeping all your work local?
+When would you want to use a remote repository rather than keeping all your work 
+local?
 
-Eu gostaria de utilizar repositórios online quando trabalhando em equipe e para segurança.
+Eu gostaria de utilizar repositórios online quando trabalhando em equipe e para 
+segurança.
+
+--------------------------------------------------------------------------------
+Código para verificar repositórios remotos
+git remote
+
+Código para criar um repositório online
+git remote add nome_do_repositorio url_do_repositório
+
+Código para configurar o cacher de senha
+git config --global credential.helper wincred
+
+Código para enviar commits para o repositório remoto
+git push nome_repositorio_remoto nome_da_branch
