@@ -62,3 +62,6 @@ git checkout -b nome_da_nova_branch
 
 Comando para mostrar a mudança de uma commit em relação ao seu paret
 git show ID
+
+Comando para deletar uma branch
+git branch -d nome_da_branch
