@@ -4,6 +4,11 @@ local?
 Eu gostaria de utilizar repositórios online quando trabalhando em equipe e para 
 segurança.
 
+Why might you want to always pull changes manually rather than having Git
+automatically stay up-to-date with your remote repository?
+
+Porque isso pode evitar de algum erro se propagar sem necessidade e podemos ter
+mais controle sobre nosso branch.
 --------------------------------------------------------------------------------
 Código para verificar repositórios remotos
 git remote
