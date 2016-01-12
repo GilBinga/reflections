@@ -26,7 +26,13 @@ Dessa forma podemos evitar problemas com merge, principalmente com contribuiçã
 How would you collaborate without using Git or GitHub? What would be easier, and
 what would be harder?
 
+When would you want to make changes in a separate branch rather than directly in
+master? What benefits does each approach have?
 
+Seria interessante realizar alterações em uma branch separada no momento de 
+criação de novas features ou testes.
+Dessa forma você pode alterar o que queira sem comprometer o cógigo funcional
+e depois realizar um merge para juntar tudo.
 --------------------------------------------------------------------------------
 Código para verificar repositórios remotos
 git remote
