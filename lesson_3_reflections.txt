@@ -18,7 +18,10 @@ porém não o da pessoa que voce copiou.
 clones são copias de repositórios locais ou da rede em sua máquina.
 branches são copias dentro de um repositório.
 
+What is the benefit of having a copy of the last known state of the remote 
+stored locally?
 
+Dessa forma podemos evitar problemas com merge, principalmente com contribuição.
 --------------------------------------------------------------------------------
 Código para verificar repositórios remotos
 git remote
