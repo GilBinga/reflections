@@ -9,6 +9,16 @@ automatically stay up-to-date with your remote repository?
 
 Porque isso pode evitar de algum erro se propagar sem necessidade e podemos ter
 mais controle sobre nosso branch.
+
+Describe the differences between forks, clones, and branches. When would you use 
+one instead of another?
+
+Forks são cópias de outros GitHub para a sua conta. Você pode alterar o seu, 
+porém não o da pessoa que voce copiou.
+clones são copias de repositórios locais ou da rede em sua máquina.
+branches são copias dentro de um repositório.
+
+
 --------------------------------------------------------------------------------
 Código para verificar repositórios remotos
 git remote
